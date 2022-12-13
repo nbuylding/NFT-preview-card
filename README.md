@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-dWDPqepeSL)
-- Live Site URL: [Add live site URL here](https://nbuylding.github.io/QR-Code-Component/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-W80ceIHK12)
+- Live Site URL: [Add live site URL here](https://nbuylding.github.io/NFT-preview-card/)
 
 ## My process
 
